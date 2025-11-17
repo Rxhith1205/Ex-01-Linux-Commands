@@ -1,6 +1,6 @@
 # Ex-01-Linux-Commands
-Name:  Rohith hariharan
-Reg No : 212223220087
+### Name:  ROHITH HARIHARAN M
+### Reg No : 212223220087
 
 ## Aim:
 
